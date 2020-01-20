@@ -1,0 +1,30 @@
+.app{
+    margin: 20px auto;
+    padding-left: 25px ;
+    width: 600px;
+    height: 400px;
+    
+    
+}
+.app a{
+padding: 8px 20px;
+background-color: #cb3838;
+color: white;
+text-decoration: none;
+border-radius: 8px;
+
+
+}
+img {
+    padding-bottom: 20px;
+}
+
+h1{
+    color: #0a6c9a;
+}
+h4 {
+    color:#888888;
+}
+hr {
+    margin: 28px 0px;
+}
